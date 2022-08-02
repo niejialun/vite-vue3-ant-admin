@@ -1,0 +1,1 @@
+import{o as s,h as a,w as t,a as e,u as r,B as o,b as i,d as p}from"./index.2c86c865.js";import{_ as u}from"./index.53bb181d.js";const c=i("返回首页"),d={setup(i){const d=p(),l=()=>{d.replace("/")};return(i,p)=>(s(),a(r(u),{status:"500",title:"500","sub-title":"抱歉，服务器发生错误"},{extra:t((()=>[e(r(o),{type:"primary",onClick:l},{default:t((()=>[c])),_:1})])),_:1}))}};export{d as default};

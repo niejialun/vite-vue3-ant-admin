@@ -1,0 +1,1 @@
+import{o as s,h as a,w as t,a as e,u as r,B as o,b as i,d as p}from"./index.2c86c865.js";import{_ as u}from"./index.53bb181d.js";const c=i("返回首页"),d={setup(i){const d=p(),l=()=>{d.replace("/")};return(i,p)=>(s(),a(r(u),{status:"403",title:"403","sub-title":"抱歉，您无权访问此页面"},{extra:t((()=>[e(r(o),{type:"primary",onClick:l},{default:t((()=>[c])),_:1})])),_:1}))}};export{d as default};

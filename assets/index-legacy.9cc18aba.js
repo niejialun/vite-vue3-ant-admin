@@ -1,0 +1,1 @@
+System.register(["./MainPanel-legacy.81e62ff8.js","./index-legacy.bdb50886.js"],(function(e){"use strict";var n,t,u,r,c;return{setters:[function(e){n=e.M},function(e){t=e.o,u=e.h,r=e.w,c=e.b}],execute:function(){var f=c(" Home ");e("default",{setup:function(e){return function(e,c){return t(),u(n,null,{default:r((function(){return[f]})),_:1})}}})}}}));

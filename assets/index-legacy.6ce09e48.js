@@ -1,0 +1,1 @@
+System.register(["./index-legacy.bdb50886.js"],(function(t){"use strict";var e,n,u;return{setters:[function(t){e=t.o,n=t.c,u=t.a9}],execute:function(){var r={class:"about"},c=[u("h4",null,"about",-1)];t("default",{setup:function(t){return function(t,u){return e(),n("div",r,c)}}})}}}));

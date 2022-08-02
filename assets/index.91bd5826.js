@@ -1,0 +1,1 @@
+import{M as a}from"./MainPanel.9cf6a92a.js";import{o as s,h as o,w as e,b as t}from"./index.2c86c865.js";const f=t(" Home "),l={setup:t=>(t,l)=>(s(),o(a,null,{default:e((()=>[f])),_:1}))};export{l as default};
